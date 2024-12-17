@@ -34,7 +34,7 @@ copyright="Copyright (C) 2022-2024 Termux."
 if test "${TERMUX_APP_PACKAGE+set}" = set; then
   termux_app_package="$TERMUX_APP_PACKAGE"
 else
-  termux_app_package="com.termux"
+  termux_app_package="id.hiddenprjkt.azaegist"
 fi
 if test "${TERMUX_BASE_DIR+set}" = set; then
   termux_base_dir="$TERMUX_BASE_DIR"
